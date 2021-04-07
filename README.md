@@ -1,3 +1,3 @@
-![Metrics](https://metrics.lecoq.io/patrickellis?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.ignored=html%2Ccss&languages.skipped=NLP&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FLondon)
+![Metrics](https://metrics.lecoq.io/patrickellis?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&pagespeed=1&isocalendar.duration=half-year&languages.ignored=html%2C%20css%2C%20jupyter%20notebook&languages.colors=github&languages.threshold=0%25&pagespeed.url=patrickellis.dev%2Fall%2Fwork&pagespeed.detailed=false&pagespeed.screenshot=true&config.timezone=Europe%2FLondon&config.padding=25%25%2C%2013%25)
 [![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickellis&show_icons=true)](https://github.com/patrickellis/github-readme-stats)
 
